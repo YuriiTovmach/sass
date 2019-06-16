@@ -1,0 +1,18 @@
+@mixin box-shadow($h_length, $v_length, $blur, $spread, $color){
+    -webkit-box-shadow:$h_length $v_length $blur $spread $color;
+    -moz-box-shadow:$h_length $v_length $blur $spread $color;
+    -ms-box-shadow:$h_length $v_length $blur $spread $color;
+    box-shadow:$h_length $v_length $blur $spread $color;
+}
+
+h1 {
+    @include box-shadow(10px, 10px, 5px, 0px, #fff);
+}
+
+h3 {
+    @include box-shadow(5px, 5px, 2px, 0px, #D0FF00);
+}
+
+h4 {
+    @include box-shadow(30px, 20px, 15px, 0px, #D0FF00);
+}

@@ -25,4 +25,22 @@ h4 {
 .wrapper {
   background-color: pink; }
 
+h1 {
+  -webkit-box-shadow: 10px 10px 5px 0px #fff;
+  -moz-box-shadow: 10px 10px 5px 0px #fff;
+  -ms-box-shadow: 10px 10px 5px 0px #fff;
+  box-shadow: 10px 10px 5px 0px #fff; }
+
+h3 {
+  -webkit-box-shadow: 5px 5px 2px 0px #orange;
+  -moz-box-shadow: 5px 5px 2px 0px #orange;
+  -ms-box-shadow: 5px 5px 2px 0px #orange;
+  box-shadow: 5px 5px 2px 0px #orange; }
+
+h4 {
+  -webkit-box-shadow: 30px 20px 15px 0px #violet;
+  -moz-box-shadow: 30px 20px 15px 0px #violet;
+  -ms-box-shadow: 30px 20px 15px 0px #violet;
+  box-shadow: 30px 20px 15px 0px #violet; }
+
 /*# sourceMappingURL=stile.css.map */
