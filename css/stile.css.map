@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kBAAkB;EAClB,MAAM,EAAC,CAAC;EACR,OAAO,EAAC,CAAC;;AAGT,IAAI;EACJ,IAAI,EAAE,0BAA0B;EAChC,gBAAgB,EAAC,IAAI;;ACJrB,CAAC;EACD,SAAS,EAJI,IAAI;EAKjB,KAAK,EAJI,GAAG;;ACSZ,EAAE;EACF,SAAS,EAXM,IAAI;EAYnB,KAAK,EATM,KAAK;;AAYhB,EAAE;EACF,SAAS,EAfM,IAAgB;EAgB/B,KAAK,EAbM,KAAK;;AAgBhB,EAAE;EACF,SAAS,EAnBM,IAAgB;EAoB/B,KAAK,EAjBM,MAAM;;ACHjB,QAAQ;EACR,gBAAgB,EAHE,IAAI",
+"sources": ["../scss/_common.scss","../scss/_p.scss","../scss/_h.scss","../scss/_wrapper.scss"],
+"names": [],
+"file": "stile.css"
+}

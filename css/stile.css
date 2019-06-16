@@ -1,0 +1,28 @@
+html, body, ul, ol {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: blue; }
+
+p {
+  font-size: 40px;
+  color: red; }
+
+h1 {
+  font-size: 10px;
+  color: white; }
+
+h3 {
+  font-size: 20px;
+  color: green; }
+
+h4 {
+  font-size: 30px;
+  color: yellow; }
+
+.wrapper {
+  background-color: pink; }
+
+/*# sourceMappingURL=stile.css.map */
