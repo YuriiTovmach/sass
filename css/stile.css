@@ -26,21 +26,21 @@ h4 {
   background-color: pink; }
 
 h1 {
-  -webkit-box-shadow: 10px 10px 5px 0px #fff;
-  -moz-box-shadow: 10px 10px 5px 0px #fff;
-  -ms-box-shadow: 10px 10px 5px 0px #fff;
-  box-shadow: 10px 10px 5px 0px #fff; }
+  -webkit-box-shadow: 10px 10px 5px 0px #FF00AE;
+  -moz-box-shadow: 10px 10px 5px 0px #FF00AE;
+  -ms-box-shadow: 10px 10px 5px 0px #FF00AE;
+  box-shadow: 10px 10px 5px 0px #FF00AE; }
 
 h3 {
-  -webkit-box-shadow: 5px 5px 2px 0px #orange;
-  -moz-box-shadow: 5px 5px 2px 0px #orange;
-  -ms-box-shadow: 5px 5px 2px 0px #orange;
-  box-shadow: 5px 5px 2px 0px #orange; }
+  -webkit-box-shadow: 5px 5px 2px 0px #D0E1FC;
+  -moz-box-shadow: 5px 5px 2px 0px #D0E1FC;
+  -ms-box-shadow: 5px 5px 2px 0px #D0E1FC;
+  box-shadow: 5px 5px 2px 0px #D0E1FC; }
 
 h4 {
-  -webkit-box-shadow: 30px 20px 15px 0px #violet;
-  -moz-box-shadow: 30px 20px 15px 0px #violet;
-  -ms-box-shadow: 30px 20px 15px 0px #violet;
-  box-shadow: 30px 20px 15px 0px #violet; }
+  -webkit-box-shadow: 30px 20px 15px 0px #D0FF00;
+  -moz-box-shadow: 30px 20px 15px 0px #D0FF00;
+  -ms-box-shadow: 30px 20px 15px 0px #D0FF00;
+  box-shadow: 30px 20px 15px 0px #D0FF00; }
 
 /*# sourceMappingURL=stile.css.map */

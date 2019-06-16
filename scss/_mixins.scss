@@ -6,11 +6,11 @@
 }
 
 h1 {
-    @include box-shadow(10px, 10px, 5px, 0px, #fff);
+    @include box-shadow(10px, 10px, 5px, 0px, #FF00AE);
 }
 
 h3 {
-    @include box-shadow(5px, 5px, 2px, 0px, #D0FF00);
+    @include box-shadow(5px, 5px, 2px, 0px, #D0E1FC);
 }
 
 h4 {
