@@ -1,0 +1,21 @@
+.message {
+font-size:20px;
+line-height:22px;
+font-weight:bold;
+color:#FFFF4D;
+}
+
+.success{
+    @extend .message;
+    color:#EDC0FF;
+}
+
+.warning{
+    @extend .message;
+    color:#ED12FF;
+}
+
+.danger{
+    @extend .message;
+    color:#FFFF34;
+}
